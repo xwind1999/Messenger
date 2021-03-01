@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6219da10-d63f-44ef-8228-a352968d4a26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/packages/dev/messenger.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/monolog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Message/DeletePhotoFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageHandler/DeletePhotoFileHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Messenger/AuditMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Messenger/UniqueIdStamp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/messenger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/messenger.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ImagePostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ImagePostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Message/AddPonkaToImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Message/AddPonkaToImage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessageHandler/AddPonkaToImageHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessageHandler/AddPonkaToImageHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessageHandler/DeleteImagePostHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessageHandler/DeleteImagePostHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Photo/PhotoFileManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Photo/PhotoFileManager.php" afterDir="false" />
-    </list>
+    <list default="true" id="6219da10-d63f-44ef-8228-a352968d4a26" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,6 +106,10 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/vendor/symfony/messenger" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
     </include_path>
   </component>
   <component name="ProjectId" id="1p6j5sOepHIFNVxnKig45rwhh5L" />
@@ -152,7 +139,7 @@
       <updated>1614510255926</updated>
       <workItem from="1614510258261" duration="633000" />
       <workItem from="1614524344450" duration="843000" />
-      <workItem from="1614568406586" duration="20760000" />
+      <workItem from="1614568406586" duration="21372000" />
     </task>
     <servers />
   </component>
