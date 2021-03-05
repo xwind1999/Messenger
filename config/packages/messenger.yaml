@@ -27,7 +27,10 @@ framework:
             async_priority_high:
                 dsn: '%env(MESSENGER_TRANSPORT_DSN)%'
                 options:
-                    queue_name: high
+                    exchange:
+                        name: messages_high_priority
+                    queues:
+                        messages_high: ~
 
             failed: 'doctrine://default?queue_name=failed'
             # sync: 'sync://'
@@ -36,4 +39,4 @@ framework:
             # Route your messages to the transports
            'App\Message\Command\AddPonkaToImage': async_priority_high
            'App\Message\Event\ImagePostDeleteEvent': async
-           'App\Message\Command\DeleteImagePost': [async, async_priority_high]
+

@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6219da10-d63f-44ef-8228-a352968d4a26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/packages/test/messenger.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Message/Event/ImagePostDeleteEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Message/Query/GetTotalImageCount.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageHandler/Event/RemoveFileWhenImagePostDeleted.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageHandler/Query/GetTotalImageCountHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/fixtures/navi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/packages/messenger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/messenger.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/ImagePostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ImagePostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MainController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Message/AddPonkaToImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Message/Command/AddPonkaToImage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Message/DeleteImagePost.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Message/Command/DeleteImagePost.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Message/DeletePhotoFile.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessageHandler/AddPonkaToImageHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessageHandler/Command/AddPonkaToImageHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessageHandler/DeleteImagePostHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessageHandler/Command/DeleteImagePostHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessageHandler/DeletePhotoFileHandler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/homepage.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Controller/ImagePostControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Controller/ImagePostControllerTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +161,7 @@
       <workItem from="1614510258261" duration="633000" />
       <workItem from="1614524344450" duration="843000" />
       <workItem from="1614568406586" duration="37876000" />
-      <workItem from="1614763162238" duration="11265000" />
+      <workItem from="1614763162238" duration="16907000" />
     </task>
     <servers />
   </component>
